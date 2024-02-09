@@ -7,9 +7,9 @@
 могут изменяться и сохранять за собой адрес в оперативной памяти.
 """
 # Создаем переменные
-integer_variable = 42
-float_variable = 3.14
-string_variable = "Привет, мир!"
+integer_variable = 7
+float_variable = 7.15
+string_variable = "Печенька"
 
 # Выводим переменные на экран
 print("integer_variable:", integer_variable)
