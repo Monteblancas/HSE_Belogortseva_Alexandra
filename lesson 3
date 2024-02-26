@@ -1,6 +1,6 @@
 from random import randint
 
-from lesson 2 info import respondents, courts
+from lesson 3 info import respondents, courts
 
 """
 Создайте ряд функций для проведения математических вычислений:
